@@ -1,0 +1,2 @@
+# Quantumult-Xjs
+JS
